@@ -54,4 +54,5 @@ def evaluate_symbolic():
             s_correct += 1
     print("Story Acc: {}".format(str(float(s_correct) / float(s_total))))
 
+
 evaluate_symbolic()
