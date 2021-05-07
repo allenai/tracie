@@ -76,7 +76,7 @@ Both scripts require additional SRL results, which we can provide on demand due 
 See the following paper: 
 ```
 @inproceedings{ZRNKSR21,
-    author = {Ben Zhou, Kyle Richardson, Qiang Ning, Tushar Khot, Ashish Sabharwal and Dan Roth},
+    author = {Ben Zhou and Kyle Richardson and Qiang Ning and Tushar Khot and Ashish Sabharwal and Dan Roth},
     title = {Temporal Reasoning on Implicit Events from Distant Supervision},
     booktitle = {NAACL},
     year = {2021},
